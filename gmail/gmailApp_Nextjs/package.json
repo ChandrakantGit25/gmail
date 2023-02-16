@@ -1,0 +1,27 @@
+{
+  "name": "gmailapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "axios": "^1.2.2",
+    "csvtojson": "^2.0.10",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "html-react-parser": "^3.0.7",
+    "next": "13.1.1",
+    "nodejs-base64": "^2.0.0",
+    "query-string": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-google-login": "^5.2.2",
+    "reactstrap": "^9.1.5",
+    "styled-components": "^5.3.6"
+  }
+}
